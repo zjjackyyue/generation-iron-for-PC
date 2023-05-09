@@ -13,13 +13,19 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+在generation-iron-for-PC目录下执行 npm install
 ```
+
+```sh
+新开一个terminal。cd 进my-nodejs-service文件夹下 执行 npm install
+```
+
+
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+分别在两个terminal执行 npm run dev 和 npm run start
 ```
 
 ### Compile and Minify for Production
